@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilfredo Diaz</h1>
-<h3 align="center">I am a self-taught front-end developer.</h3>
+<h3 align="center">I am a self-taught software engineer.</h3>
 
  I am passionate about creating clean and intuitive user interfaces that provide a seamless experience for users. My love for design and technology led me to pursue a career in web development, where I can use my skills to bring creative ideas to life.
 
