@@ -11,7 +11,7 @@ I also enjoy attending tech meetups and conferences to network with other develo
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdiazdev" alt="wdiazdev" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://www.wdiazdev.com/](https://www.wdiazdev.com/)
 
