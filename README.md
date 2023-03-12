@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wilfredo Diaz</h1>
 <h3 align="center">I am a self-taught front-end developer.</h3>
 
+ I am passionate about creating clean and intuitive user interfaces that provide a seamless experience for users. My love for design and technology led me to pursue a career in web development, where I can use my skills to bring creative ideas to life.
+
+My workflow is highly collaborative, and I believe that effective communication and teamwork are crucial for delivering successful projects. I am dedicated to understanding the unique needs of each project and working closely with clients and stakeholders to ensure that their vision is realized.
+
+I also enjoy attending tech meetups and conferences to network with other developers and learn about new technologies and techniques. Thank you for taking the time to learn a bit about me, and I look forward to the opportunity to collaborate with you on your next project.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdiazdev&label=Profile%20views&color=0e75b6&style=flat" alt="wdiazdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdiazdev" alt="wdiazdev" /></a> </p>
