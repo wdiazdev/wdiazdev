@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilfredo Diaz</h1>
-<h3 align="center">I am a self-taught software engineer.</h3>
+<h3 align="center">I am a military veteran software engineer.</h3>
 
 As a skilled software engineer with a passion for innovation and problem-solving, I have spent my career developing and implementing cutting-edge technology solutions across a variety of industries. With expertise in frontend web development. I am committed to delivering solutions that meet the unique needs of each project and drive business success.
 
