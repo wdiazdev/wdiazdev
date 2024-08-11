@@ -15,7 +15,7 @@ Overall, I am passionate about leveraging technology to drive business growth an
 
 - 👨‍💻 All of my projects are available at [https://www.wdiazdev.com/](https://www.wdiazdev.com/)
 
-- 💬 Ask me about **React, Typescript, CSS3, Tailwind CSS, Node**
+- 💬 Ask me about **React, React Native, Typescript, CSS3, Tailwind CSS, Node**
 
 - 📫 How to reach me **wdiazdev@gmail.com**
 
