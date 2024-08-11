@@ -11,7 +11,7 @@ Overall, I am passionate about leveraging technology to drive business growth an
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdiazdev" alt="wdiazdev" /></a> </p>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Dotnet Framework**
 
 - 👨‍💻 All of my projects are available at [https://www.wdiazdev.com/](https://www.wdiazdev.com/)
 
